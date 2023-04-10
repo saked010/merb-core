@@ -1,1 +1,1 @@
-Update Colab notebook for YOLOv8.1 (#8660)
+Fix names bug when exporting YOLOv8-World to ONNX (#8941)
