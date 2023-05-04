@@ -1,1 +1,1 @@
-Update format.yml to pull_request_target (#7460)
+Add YOLOv8-OBB https://youtu.be/Z7Z9pHF8wJc (#7780)
