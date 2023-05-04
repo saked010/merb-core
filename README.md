@@ -1,1 +1,1 @@
-Update HTTP to HTTPS (#7548)
+Update format.yml to pull_request_target (#7460)
