@@ -1,1 +1,1 @@
-Add missing single-line docstrings (#8362)
+Update CITATION.cff with cffinit corrections (#8658)
