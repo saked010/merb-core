@@ -1,1 +1,1 @@
-ultralytics 8.1.11 expand OpenVINO INT8 ops for improved mAP (#7516)
+ultralytics 8.0.227 respect defaults.yaml data (#6935)
