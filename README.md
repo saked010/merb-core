@@ -1,1 +1,1 @@
-Add NCNN Docs Integrations Page (#8562)
+Improve Docs arguments tables (#8415)
