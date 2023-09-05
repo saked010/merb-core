@@ -1,1 +1,1 @@
-Update Docs robots.txt (#7728)
+ultralytics 8.0.229 add model.embed() method (#7098)
