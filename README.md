@@ -1,1 +1,1 @@
-Add https://youtu.be/q7LwPoM7tSQ to guides/yolo-performance-metrics.md (#8114)
+Both Link Opening Options - Have both the Open in Background option and the Open in New Tab option available alongside each other
