@@ -1,1 +1,1 @@
-Fix ONNX GPU inference bug (#6840)
+Optimize function calls to method calls (#8507)
