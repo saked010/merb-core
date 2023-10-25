@@ -1,1 +1,1 @@
-More robust PNNX downloads (#8866)
+Add HUB-SDK docs (#7775)
