@@ -1,1 +1,1 @@
-Update HTTP to HTTPS (#7548)
+Add object blurring & object cropping modules in Ultralytics docs (#7434)
