@@ -1,1 +1,1 @@
-Segment TensorRT batch=3 fix (#7952)
+Fix docker.yaml double-quote version bug (#7452)
