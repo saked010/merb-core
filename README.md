@@ -1,1 +1,1 @@
-fix for predicting with batch_size > 1 (#47)
+ultralytics 8.1.23 add YOLOv9-C and E models (#8571)
