@@ -1,1 +1,1 @@
-Fix bbox2segment converter (#7814)
+Avoid creating -hub dir without processing images (#8334)
