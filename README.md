@@ -1,1 +1,1 @@
-Improve Docs arguments tables (#8415)
+Cleanup Docs languages (#7865)
