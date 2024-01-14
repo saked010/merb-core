@@ -1,1 +1,1 @@
-Add domain checks to CI docs page (#8714)
+Try Apple M1 runners for Tests and Benchmarks CI (#8162)
