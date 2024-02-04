@@ -1,1 +1,1 @@
-Rename model_id to model.id (#8447)
+Use pathlib in DOTA ops (#7552)
