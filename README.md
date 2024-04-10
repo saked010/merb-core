@@ -1,1 +1,1 @@
-Update pyproject.toml and Docs (#7274)
+Merge pull request #22 from SkalskiP/patch-1
