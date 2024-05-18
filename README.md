@@ -1,1 +1,1 @@
-Improve Docs Modes tables (#8266)
+ultralytics 8.1.24 new OpenVINO 2023.3 export updates (#8417)
