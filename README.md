@@ -1,1 +1,1 @@
-Add TensorRT Docs Integrations Page (#7855)
+Add YOLOv8 LibTorch C++ inference example (#7090)
