@@ -1,1 +1,1 @@
-ultralytics 8.1.22 HUB model pathlib fix (#8621)
+Fix RTDETR generate anchor grid out of boundary (#7247)
