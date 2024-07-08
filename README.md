@@ -1,1 +1,1 @@
-Allow Annotator PIL.Image inputs (#8397)
+Batch inference fixes (#8854)
