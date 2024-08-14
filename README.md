@@ -1,1 +1,1 @@
-Fix OpenVINO links (#7930)
+New HUB Cloud Training docs page (#8174)
