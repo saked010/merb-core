@@ -1,1 +1,1 @@
-OpenVino 2024.0.0 (#8726)
+Update OpenVINO INT8 export (#7515)
