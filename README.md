@@ -1,1 +1,1 @@
-Model typehints Docker fix (#8306)
+Fix OpenVINO missing batch-size bug (#9264)
