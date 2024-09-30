@@ -1,1 +1,1 @@
-Fix ONNX GPU inference bug (#6840)
+Add Amazon Sagemaker Docs integrations page (#7293)
