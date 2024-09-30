@@ -1,1 +1,1 @@
-Fix OpenVINO links (#7930)
+Fix ONNX GPU inference bug (#6840)
