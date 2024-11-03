@@ -1,1 +1,1 @@
-Updated SQL Query Plot Code (#8120)
+ultralytics 8.1.34 Inference API robust imgsz checks (#9274)
